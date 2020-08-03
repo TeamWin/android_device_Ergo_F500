@@ -1,2 +1,2 @@
-add_lunch_combo omni_H81-eng
-add_lunch_combo omni_H81-userdebug
+add_lunch_combo omni_F500-eng
+add_lunch_combo omni_F500-userdebug
